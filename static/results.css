@@ -1,0 +1,10 @@
+h3 {
+    color: darkSlateGrey;
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: Azure;
+    padding: 20px;
+}
